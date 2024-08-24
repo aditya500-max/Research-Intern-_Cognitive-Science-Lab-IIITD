@@ -1,0 +1,3 @@
+Designed and implemented a Research experiment to analyze the Modulation of pupil diameter in response to emotional stimuli. Managed logistics and conducted 20+ Eye tracking experiments on PsychoPy involving 2 eccentricities (6° and 12°) across 3 blocks [E1, E2, Baseline] of 120 trials each, Incorporated 
+Python code for experiment automation and data collection. Engineered Data Preprocessing pipelines to process Eye-tracking data, encompassing Data cleaning, Normalization, Baseline correction, along with application of SavitzkyGolay (Savgol) filter. Generated sophisticated visualizations of pupil response data, utilizing matplotlib to plot
+Time-series data facilitating in-depth analysis of cognitive and attentional processes.
